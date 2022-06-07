@@ -1,4 +1,4 @@
-# JumpyBug
+# JumpyBag
 Unity project - Jumpy Bag. Try to score as many points as possible by jumping over the cliffs. Don't forget to refuel on time :)
 
 Install on your phone: ***[install apk]***
